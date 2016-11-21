@@ -1,0 +1,24 @@
+# 常见文件
+*.o
+*.a
+*.i
+*.out
+*.so
+*.bak
+*.elf
+*.h.*
+.*
+
+# 压缩文件
+*.gz
+*.tar
+*.xz
+
+# 索引文件
+cscope.*
+ncscope.*
+tags
+
+
+# !
+!.gitignore
